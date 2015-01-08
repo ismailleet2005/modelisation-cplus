@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{790D5369-D7E1-49D2-8FCE-B1E6C3F648BC}" Label="" LastModificationDate="1420415783" Name="ModeleOrienteObjet_Module" Objects="48" Symbols="9" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{790D5369-D7E1-49D2-8FCE-B1E6C3F648BC}" Label="" LastModificationDate="1420760942" Name="ModeleOrienteObjet_Module" Objects="48" Symbols="9" Target="C# 2.0" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -2707,7 +2707,7 @@ MULA 0 Arial,8,N</a:FontList>
 <o:AssociationSymbol Id="o17">
 <a:CreationDate>1419781026</a:CreationDate>
 <a:ModificationDate>1420191684</a:ModificationDate>
-<a:Rect>((6300,27), (13575,12562))</a:Rect>
+<a:Rect>((6263,27), (13612,12562))</a:Rect>
 <a:ListOfPoints>((13575,27),(13575,6079),(6300,6079),(6300,12562))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
@@ -3043,12 +3043,12 @@ LABL 0 Arial,8,N</a:FontList>
 </o:Attribute>
 <o:Attribute Id="o39">
 <a:ObjectID>1CB76705-3026-495A-B999-12E360BD8E14</a:ObjectID>
-<a:Name>Nom</a:Name>
-<a:Code>nom</a:Code>
+<a:Name>Titre</a:Name>
+<a:Code>titre</a:Code>
 <a:CreationDate>1419780996</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419780996</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
+<a:ModificationDate>1420760902</a:ModificationDate>
+<a:Modifier>THINKPAD</a:Modifier>
 <a:DataType>string</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
@@ -3133,12 +3133,12 @@ LABL 0 Arial,8,N</a:FontList>
 </o:Attribute>
 <o:Attribute Id="o45">
 <a:ObjectID>5212FECB-5864-4599-ADA3-06B94ABF218D</a:ObjectID>
-<a:Name>Nom</a:Name>
-<a:Code>nom</a:Code>
+<a:Name>Titre</a:Name>
+<a:Code>titre</a:Code>
 <a:CreationDate>1419780996</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419780996</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
+<a:ModificationDate>1420760933</a:ModificationDate>
+<a:Modifier>THINKPAD</a:Modifier>
 <a:DataType>string</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
@@ -3223,12 +3223,12 @@ LABL 0 Arial,8,N</a:FontList>
 </o:Attribute>
 <o:Attribute Id="o51">
 <a:ObjectID>78F616F3-DF02-4CF9-BD56-EA4213D93FF7</a:ObjectID>
-<a:Name>Nom</a:Name>
-<a:Code>nom</a:Code>
+<a:Name>Titre</a:Name>
+<a:Code>titre</a:Code>
 <a:CreationDate>1419780996</a:CreationDate>
 <a:Creator>ESSARRAJ</a:Creator>
-<a:ModificationDate>1419780996</a:ModificationDate>
-<a:Modifier>ESSARRAJ</a:Modifier>
+<a:ModificationDate>1420760942</a:ModificationDate>
+<a:Modifier>THINKPAD</a:Modifier>
 <a:DataType>string</a:DataType>
 <a:Attribute.Visibility>-</a:Attribute.Visibility>
 </o:Attribute>
